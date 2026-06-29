@@ -236,6 +236,7 @@ Cross Validation Score (SVM): **97.58%**
 
 ---
 
+If the notebook does not render properly on GitHub, open it using: https://nbviewer.org/
 ## Author
 
 **Gyandeep**
